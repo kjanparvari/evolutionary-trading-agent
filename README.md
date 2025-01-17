@@ -18,4 +18,4 @@ This project demonstrates the integration of evolutionary computation techniques
 This project was developed as part of an independent research initiative at **Amirkabir University of Technology**.  
 
 ## License  
-This project is licensed under the AUT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
